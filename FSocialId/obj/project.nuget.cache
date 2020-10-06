@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qxEDcJ8Ykh60ShvniPU0+gER+eoMrgs5UY9eiyL3qJbokn2PKAqX73tWMmxBe4J++/rI+9DcJcNOIXmhWb9xNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\traus\\source\\repos\\FSocialId\\FSocialId\\FSocialId.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\traus\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
